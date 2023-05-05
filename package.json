@@ -1,0 +1,29 @@
+{
+  "name": "assenginment",
+  "version": "1.0.0",
+  "description": "\"This is React Assignment\"",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeenuyD/React-Assignment.git"
+  },
+  "author": "\"Meenu Yadav\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeenuyD/React-Assignment/issues"
+  },
+  "homepage": "https://github.com/MeenuyD/React-Assignment#readme",
+  "dependencies": {
+    "parcel": "^2.8.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.1",
+    "tailwindcss": "^3.3.2"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.18.6"
+  }
+}
